@@ -1,0 +1,9 @@
+<directory name="fwbuilder-qt5" rev="3" srcmd5="cce87442bad5678633e20e868e2bed1d" vrev="3">
+  <serviceinfo code="succeeded" xsrcmd5="ca179fd599fd62c8c377950f0fc21834" />
+  <entry md5="a066b19a51abef3709939c92c6394adf" mtime="1448631846" name="PKGBUILD" size="1332" />
+  <entry md5="3669c442a497bb87a50fbad25c6fa473" mtime="1448621847" name="_service" size="222" />
+  <entry md5="151fb5982aa9f5c5690705d2594a045b" mtime="1448625497" name="bump.sh" size="438" />
+  <entry md5="e603318d2874c0eb7674fc81b7b93ba8" mtime="1448621848" name="fwbuilder-gcc47.patch" size="665" />
+  <entry md5="dde922be01aded70b282cac665719a5f" mtime="1448621849" name="fwbuilder.install" size="262" />
+  <entry md5="520e08069addcdb946794458f49f3d10" mtime="1448621851" name="fwbuilder.xml" size="460" />
+</directory>

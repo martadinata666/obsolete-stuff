@@ -1,0 +1,5 @@
+<directory name="deadbeef-decast-git" rev="36" srcmd5="8ae10332f5975739a5fcf5601dc51d6e" vrev="36">
+  <serviceinfo code="succeeded" xsrcmd5="6527efd7a632c8624b1420a450078f25" />
+  <entry md5="91d4565b73778614eadbb59778fe787b" mtime="1447812846" name="PKGBUILD" size="1675" />
+  <entry md5="1372b705908c61f08756fb5663e68c16" mtime="1446995195" name="_service" size="404" />
+</directory>

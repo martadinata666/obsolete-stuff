@@ -1,0 +1,5 @@
+<directory name="opencl-headers" rev="10" srcmd5="343aaec76a76bce17d8c62670a657034" vrev="10">
+  <serviceinfo code="succeeded" xsrcmd5="fafaecd1a3e5b203cecdab80eef089b2" />
+  <entry md5="1651559f2edc2cf45d598ee6bde5b1f3" mtime="1446449478" name="PKGBUILD" size="348" />
+  <entry md5="28103236b428b1c645418c02700601e5" mtime="1446449275" name="_service" size="247" />
+</directory>

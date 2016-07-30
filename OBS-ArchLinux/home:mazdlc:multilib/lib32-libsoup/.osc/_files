@@ -1,0 +1,5 @@
+<directory name="lib32-libsoup" rev="24" srcmd5="2883230e166d40c754308ea46ad0f662" vrev="24">
+  <serviceinfo code="succeeded" xsrcmd5="eba1e04c4ea26e67786ee7cc0a0f2418" />
+  <entry md5="fdad5aef6e0164ffbac3efbf5f790e49" mtime="1447905837" name="PKGBUILD" size="406" />
+  <entry md5="3e6a4dd150c1bedb5a932e8c0603a1f7" mtime="1446438987" name="_service" size="249" />
+</directory>

@@ -1,0 +1,5 @@
+<directory name="lib32-json-c" rev="4" srcmd5="c47aa906c211682770414a2d097bcae9" vrev="4">
+  <serviceinfo code="succeeded" xsrcmd5="e07205381e0f23702b68cddc069dc0ae" />
+  <entry md5="024a0f01bd9edc81edacd457f547e816" mtime="1446385561" name="PKGBUILD" size="364" />
+  <entry md5="783bc69766a1a9bd155236f4a8503429" mtime="1446385563" name="_service" size="248" />
+</directory>

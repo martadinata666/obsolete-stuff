@@ -1,0 +1,5 @@
+<directory name="deadbeef-plugin-fb-git" rev="41" srcmd5="60ecbc9f04145706b5f52e3d392e8cac" vrev="41">
+  <serviceinfo code="succeeded" xsrcmd5="058784dae6bae78d0e56a68c87241767" />
+  <entry md5="f6da361f5d51db1c0895bfbb562c2b2e" mtime="1447813054" name="PKGBUILD" size="1692" />
+  <entry md5="ce99ee68676f996215f3114fe987e062" mtime="1446774314" name="_service" size="413" />
+</directory>

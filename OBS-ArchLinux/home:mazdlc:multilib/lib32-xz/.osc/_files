@@ -1,0 +1,5 @@
+<directory name="lib32-xz" rev="3" srcmd5="de56cbaca52c8f8f1ef5464a35065737" vrev="3">
+  <serviceinfo code="succeeded" xsrcmd5="869034803209184e2733670b4f9d8a02" />
+  <entry md5="33c423b05700252deb237edb632c1efa" mtime="1446436582" name="PKGBUILD" size="353" />
+  <entry md5="84e426d7efe635b9c949a33784b03214" mtime="1446436583" name="_service" size="244" />
+</directory>

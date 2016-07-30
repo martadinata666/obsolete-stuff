@@ -1,0 +1,5 @@
+<directory name="lib32-glu" rev="31" srcmd5="fb30a23e1d0e695e99b9cc614fea754f" vrev="31">
+  <serviceinfo code="succeeded" xsrcmd5="ad1244f2c6576472ca998ff8a0827228" />
+  <entry md5="dc9ccc02f42d5a5a7f02b4023760eac6" mtime="1446723273" name="PKGBUILD" size="356" />
+  <entry md5="078f925723bcbac887eb6a9fdd0dbc26" mtime="1446450264" name="_service" size="244" />
+</directory>

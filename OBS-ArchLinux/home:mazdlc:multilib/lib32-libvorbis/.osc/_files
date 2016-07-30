@@ -1,0 +1,5 @@
+<directory name="lib32-libvorbis" rev="3" srcmd5="69be7d4f9d87854764cba46b42758a09" vrev="3">
+  <serviceinfo code="succeeded" xsrcmd5="ea6871f1d42982a55c63cae13202f7e4" />
+  <entry md5="f9925b64662512a0c4618ce9e4e15fca" mtime="1446386703" name="PKGBUILD" size="375" />
+  <entry md5="a21e1194deb134d4cda84b7e8fcc596b" mtime="1446386705" name="_service" size="251" />
+</directory>

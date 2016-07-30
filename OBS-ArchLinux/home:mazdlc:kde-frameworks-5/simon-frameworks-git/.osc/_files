@@ -1,0 +1,7 @@
+<directory name="simon-frameworks-git" rev="321" srcmd5="7087a828ab1e9fe1e6ddd87ea3b91aee" vrev="321">
+  <serviceinfo code="succeeded" xsrcmd5="84d7633526d0a04d213ecbff8a6b9c71" />
+  <entry md5="45b6131166378e74d1c126ecb9aeffb9" mtime="1447982487" name="PKGBUILD" size="1479" />
+  <entry md5="5faf6f1e56e40ed81323410eb30a612e" mtime="1447544890" name="_service" size="440" />
+  <entry md5="260b9e0451fa46f25d4c051f35f4e476" mtime="1447921944" name="fix.patch" size="8370" />
+  <entry md5="7a28270cb5a2fd4ea106ade3ff301178" mtime="1447923600" name="simon.install" size="145" />
+</directory>

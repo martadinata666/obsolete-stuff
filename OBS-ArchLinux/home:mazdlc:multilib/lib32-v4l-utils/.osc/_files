@@ -1,0 +1,5 @@
+<directory name="lib32-v4l-utils" rev="7" srcmd5="7980c1698c3103b08f26e25d2502d409" vrev="7">
+  <serviceinfo code="succeeded" xsrcmd5="33992e576cebc4a1aff0edb842fc6928" />
+  <entry md5="1b1ecdd559d01018cc9aaac7ce3b9f99" mtime="1446378387" name="PKGBUILD" size="390" />
+  <entry md5="b0a1176af2cdada42f235a60785321f9" mtime="1446379802" name="_service" size="251" />
+</directory>

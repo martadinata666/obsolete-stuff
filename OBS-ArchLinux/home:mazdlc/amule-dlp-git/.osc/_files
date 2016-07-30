@@ -1,0 +1,8 @@
+<directory name="amule-dlp-git" rev="73" srcmd5="5ddc69a58bab28bbdb4d71fc4854cdff" vrev="73">
+  <serviceinfo code="succeeded" xsrcmd5="e15d7f4e910b4979686f236962d67304" />
+  <entry md5="9f7e187629cec58976bc669b06510c82" mtime="1446294476" name="PKGBUILD" size="2220" />
+  <entry md5="443831e92359c0848b9243d1bac75a26" mtime="1446714028" name="_service" size="452" />
+  <entry md5="72188f37ef0be6615c8f47479fb4a034" mtime="1446292846" name="amule.install" size="1147" />
+  <entry md5="59772c41860e238f1c822feb8ca8d47f" mtime="1446292850" name="amuled.systemd" size="214" />
+  <entry md5="05975c5d94bfc41fddb894d98b1115d5" mtime="1446292856" name="amuleweb.systemd" size="266" />
+</directory>

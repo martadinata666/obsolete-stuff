@@ -1,0 +1,5 @@
+<directory name="lib32-attr" rev="4" srcmd5="a3ceb17fe3500ddff505b6faaa788aef" vrev="4">
+  <serviceinfo code="succeeded" xsrcmd5="b715cc6bb7368904d3a8bdfba3675494" />
+  <entry md5="bd6fa8c3fa8dd299c075e5f2442404fd" mtime="1446436210" name="PKGBUILD" size="360" />
+  <entry md5="82f2d690a4c5433bb61c6970f84b1155" mtime="1446436212" name="_service" size="246" />
+</directory>

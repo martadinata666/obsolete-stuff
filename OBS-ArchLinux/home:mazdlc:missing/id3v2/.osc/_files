@@ -1,0 +1,5 @@
+<directory name="id3v2" rev="9" srcmd5="d1cc80eb0337029511de5b8ce1ff51de" vrev="9">
+  <serviceinfo code="succeeded" xsrcmd5="59f644a387bbad8c17087ca06ad34c30" />
+  <entry md5="23ddbfbb672ce65d619b99d575e57756" mtime="1446977778" name="PKGBUILD" size="345" />
+  <entry md5="0070be3f024324dbe28fc088a60e74a2" mtime="1446956987" name="_service" size="241" />
+</directory>

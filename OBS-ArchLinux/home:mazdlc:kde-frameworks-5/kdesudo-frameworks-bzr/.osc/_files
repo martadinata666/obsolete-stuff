@@ -1,0 +1,5 @@
+<directory name="kdesudo-frameworks-bzr" rev="195" srcmd5="f5cdbecb744fcce246f26b771ca6aaef" vrev="195">
+  <serviceinfo code="succeeded" xsrcmd5="c000312d7560cb6032dd7e6f312483a3" />
+  <entry md5="b14ce999e6f351efaa423fbe9448f1c5" mtime="1447678706" name="PKGBUILD" size="734" />
+  <entry md5="96fa6ebf3b7ea4f8deaa544b292a33e9" mtime="1447678780" name="_service" size="427" />
+</directory>

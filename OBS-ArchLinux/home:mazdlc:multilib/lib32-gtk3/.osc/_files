@@ -1,0 +1,5 @@
+<directory name="lib32-gtk3" rev="41" srcmd5="56ee4f4c15aabd85021ade2e9e81902a" vrev="41">
+  <serviceinfo code="succeeded" xsrcmd5="040d7e369e73ec7bcc18818661d4e596" />
+  <entry md5="63037bcaa0b654fffe70b55bcb0b1b4d" mtime="1447902292" name="PKGBUILD" size="569" />
+  <entry md5="a5ba793d180f251831dbf2aee535404f" mtime="1446441634" name="_service" size="245" />
+</directory>

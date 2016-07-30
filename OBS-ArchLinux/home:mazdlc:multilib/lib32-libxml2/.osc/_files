@@ -1,0 +1,5 @@
+<directory name="lib32-libxml2" rev="4" srcmd5="bf0ff89a08ccd7611257dd5119c1c8bf" vrev="4">
+  <serviceinfo code="succeeded" xsrcmd5="d5a42b0a089a077a9d97f181c6eb0d8e" />
+  <entry md5="71f559612886d04c4819feb7a3d714db" mtime="1446598209" name="PKGBUILD" size="396" />
+  <entry md5="9ff20749abb4e5f45887baa075f5f034" mtime="1446385909" name="_service" size="249" />
+</directory>

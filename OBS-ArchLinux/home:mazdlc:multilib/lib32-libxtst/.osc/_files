@@ -1,0 +1,5 @@
+<directory name="lib32-libxtst" rev="3" srcmd5="85a4c1d4fb4c3c9849f803e81b66c85e" vrev="3">
+  <serviceinfo code="succeeded" xsrcmd5="dff751e2b38211856a18201887058c39" />
+  <entry md5="255d49ffa56f8e528569206ccc1f6dfd" mtime="1446385705" name="PKGBUILD" size="398" />
+  <entry md5="d7da909c52ec3864da056b684c57d009" mtime="1446385707" name="_service" size="249" />
+</directory>

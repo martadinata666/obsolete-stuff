@@ -1,0 +1,5 @@
+<directory name="lib32-libtiff" rev="4" srcmd5="b35d7d8f44191c21d6643d2f367b79ce" vrev="4">
+  <serviceinfo code="succeeded" xsrcmd5="e55cdbb65675645f16c175a75a3ad244" />
+  <entry md5="38635a7298dd10a9014eccd4101abada" mtime="1446438360" name="PKGBUILD" size="405" />
+  <entry md5="c040338a9ea0f71dc640d189220aeef4" mtime="1446438362" name="_service" size="249" />
+</directory>

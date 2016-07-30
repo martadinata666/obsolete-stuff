@@ -1,0 +1,5 @@
+<directory name="gst-bt-git" rev="81" srcmd5="e167ec203fd94d514dbeee7070799917" vrev="81">
+  <serviceinfo code="succeeded" xsrcmd5="5fd944c5f82c5e2bc5faf5c373c3c394" />
+  <entry md5="79488daace658022870007e533a6fa3a" mtime="1446954092" name="PKGBUILD" size="675" />
+  <entry md5="4dda2be23e22b898025d202e8b84082b" mtime="1446953304" name="_service" size="401" />
+</directory>

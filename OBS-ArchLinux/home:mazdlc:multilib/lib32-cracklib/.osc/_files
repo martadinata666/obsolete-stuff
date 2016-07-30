@@ -1,0 +1,5 @@
+<directory name="lib32-cracklib" rev="4" srcmd5="eb32485ba2fdea0c8de0d42503e50257" vrev="4">
+  <serviceinfo code="succeeded" xsrcmd5="c011f05b708d66452564116684fad44a" />
+  <entry md5="52067f9ca3cc44664388698bb37c2530" mtime="1446443422" name="PKGBUILD" size="370" />
+  <entry md5="e24129e3198753630d97bb31d0a1cfe1" mtime="1446443424" name="_service" size="249" />
+</directory>

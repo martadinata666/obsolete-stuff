@@ -1,0 +1,22 @@
+pkgname=ffms2
+pkgver=2.21
+pkgrel=2
+pkgdesc="package for obs"
+arch=('x86_64')
+depends=( ffmpeg )
+#provides=('ffms2=$pkgver')
+#conflicts=('ffms2=$pkgver')
+url="http://www.archlinux.org"
+license=('see original')
+source=("index.html")
+md5sums=('SKIP')
+noextract="index.html"
+
+
+package() {
+	cd ${pkgdir}
+	tar xvpJf "$startdir/index.html"
+	rm ./.MTREE
+	rm ./.PKGINFO
+	rm -f ./.INSTALL
+}
